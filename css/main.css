@@ -1,0 +1,35 @@
+body {
+    background-attachment: fixed;
+}
+
+.tk-blob {
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+}
+
+.bottom-middle {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 0px;
+    right: 5%;
+}
+
+.appIcon {
+    width: 200px; 
+    height: 200px;
+    border-radius: 30px;
+    margin: auto;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.screenshot {
+    margin: auto;
+    display: block;
+}

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is matt! See my website [here](mattrempel.com)
+My name is matt! See my website [here](https://mattrempel.com)
 
 <!--
 **Matt-rempel/matt-rempel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
